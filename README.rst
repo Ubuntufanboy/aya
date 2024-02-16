@@ -1,12 +1,12 @@
 Aya - Lightweight Logging Framework
 =======
 
-.. image:: https://github.com/Ubuntufanboy/aya/blob/master/aya2.png
+.. image:: https://github.com/Ubuntufanboy/aya/blob/master/docs/aya2.png
     :height: 100px
     :alt: Aya logo
     :align: center
 
-.. image:: badge.svg
+.. image:: docs/badge.svg
 
 About
 =====
@@ -49,7 +49,7 @@ Install
 Sadly this project is not on pypi yet so you must manualy import it for now. Don't worry it's easy
 ::
     git clone https://www.github.com/Ubuntufanboy/aya
-    cp aya/aya.py your/project/directory
+    cp aya/src/aya.py your/project/directory
 
 Template Keywords
 =================

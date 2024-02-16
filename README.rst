@@ -3,7 +3,7 @@
     :alt: Aya logo
     :align: center
 
-image:: badge.svg
+.. image:: badge.svg
 
 About
 =====
@@ -50,7 +50,7 @@ Sadly this project is not on pypi yet so you must manualy import it for now. Don
 Template Keywords
 =================
 
-Input Keywords
+Input Keywords::
     {TIME} A timestamp of the time the log was called
     {DATE} The day the log was called
     {TYPE} The type of log that was called
@@ -58,7 +58,7 @@ Input Keywords
     {LOGFILE} The file the logger logs to
     {FILE} The file that the logger is running on
 
-Output Keywords
+Output Keywords::
     {msg} the message the logger will display
 
 Contributing

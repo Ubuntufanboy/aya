@@ -24,6 +24,7 @@ Getting Started
 
 
 .. code-block:: python
+
     import aya # make sure to import the whole module
 
     mylog = Logger(template="{DATE} {TIME} {FILE}:{LINE} - {TYPE}: {MSG}", logfile="test.txt")

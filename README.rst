@@ -51,6 +51,11 @@ Sadly this project is not on pypi yet so you must manualy import it for now. Don
     git clone https://www.github.com/Ubuntufanboy/aya
     cp aya/src/aya.py your/project/directory
 
+Plugins
+=======
+
+Plugin support has been added check it out in the docs/ folder. Bare in mind that the feature is still under development
+
 Template Keywords
 =================
 

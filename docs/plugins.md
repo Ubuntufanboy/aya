@@ -1,6 +1,3 @@
-
----
-
 # Plugin Feature Documentation
 
 ## Overview
